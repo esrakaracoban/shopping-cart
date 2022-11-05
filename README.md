@@ -1,1 +1,2 @@
-# React Shopping Cart | Using Hooks 
+#  Shopping Cart |React.js  Using Hooks 
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/108582380/189154907-fb4d52d7-06b6-4671-8b81-363d600a9503.gif" width="500" height="320"/></p>
